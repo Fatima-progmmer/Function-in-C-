@@ -1,4 +1,3 @@
-Here's a README file for your **"Function in C"** repository:  
 
 ---
 
